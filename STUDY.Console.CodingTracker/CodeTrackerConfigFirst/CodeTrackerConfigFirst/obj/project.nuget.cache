@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "VS5+T/B+thU3Bk4J+y7CKDSjCUz/COjY4RpNei/tEgo6ux0Vr5HONBO8xpvFO2hjI9GBf9SG4wpPFYCtBNWU3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\CodeReviews.Console.CodingTracker\\CodeTrackerConfigFirst - Main - Submit\\CodeTrackerConfigFirst\\CodeTrackerConfigFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\microsoft.data.sqlite\\8.0.1\\microsoft.data.sqlite.8.0.1.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.1\\microsoft.data.sqlite.core.8.0.1.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\spectre.console.cli\\0.48.0\\spectre.console.cli.0.48.0.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Youngwoo\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
