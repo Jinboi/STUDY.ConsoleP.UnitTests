@@ -2,9 +2,9 @@
 
 namespace CodeTrackerConfigFirst
 {
-    internal class MainMenu
+    public class MainMenu
     {
-        internal static void GetUserInput()
+        public static void GetUserInput()
         {
             Console.Clear();
             bool closeApp = false;
