@@ -33,6 +33,6 @@ namespace CodeTrackerConfigFirst
             int finalInput = Convert.ToInt32(numberInput);
 
             return finalInput;
-        }
+        }   
     }
 }
