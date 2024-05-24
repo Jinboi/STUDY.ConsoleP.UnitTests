@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u7GDEW09HNM4loOiLHMz59LAJoyyCydjeNDtCIvIa9UUr7Ca63fZBTI6oRNYXzwNdvsk+AGhBrEVWi8QrRXOOg==",
+  "dgSpecHash": "dgPSXkoCasEW6y3tz4n5MV6bBRb+Stw5kiBKqEhYQ3kf4ffBGv24bYk3wYYrx7YpK/OZG6uM/QxQOn7772sRBQ==",
   "success": true,
-  "projectFilePath": "C:\\MEGA\\WIP\\02-GitWIP\\STUDY.ConsoleP.UnitTests\\STUDY.Console.CodingTracker\\CodeTrackerConfigFirst\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\MEGA\\WIP\\02-GitWIP\\STUDY.ConsoleP.UnitTests\\STUDY.Console.CodingTracker\\CodeTrackerConfigFirst\\TestProject1\\CodeTrackerConfigFirst.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duddn\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\duddn\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

@@ -2,9 +2,8 @@ using CodeTrackerConfigFirst;
 
 namespace TestProject1
 {
-    [TestClass]
-    
-    public class CodeTrackerConfigFirstTests
+    [TestClass]    
+    public class ValidationTests
     {      
         [TestMethod]
         [DataRow(1)]

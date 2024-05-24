@@ -1671,9 +1671,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MEGA\\WIP\\02-GitWIP\\STUDY.ConsoleP.UnitTests\\STUDY.Console.CodingTracker\\CodeTrackerConfigFirst\\TestProject1\\TestProject1.csproj",
-      "projectName": "TestProject1",
-      "projectPath": "C:\\MEGA\\WIP\\02-GitWIP\\STUDY.ConsoleP.UnitTests\\STUDY.Console.CodingTracker\\CodeTrackerConfigFirst\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\MEGA\\WIP\\02-GitWIP\\STUDY.ConsoleP.UnitTests\\STUDY.Console.CodingTracker\\CodeTrackerConfigFirst\\TestProject1\\CodeTrackerConfigFirst.UnitTests.csproj",
+      "projectName": "CodeTrackerConfigFirst.UnitTests",
+      "projectPath": "C:\\MEGA\\WIP\\02-GitWIP\\STUDY.ConsoleP.UnitTests\\STUDY.Console.CodingTracker\\CodeTrackerConfigFirst\\TestProject1\\CodeTrackerConfigFirst.UnitTests.csproj",
       "packagesPath": "C:\\Users\\duddn\\.nuget\\packages\\",
       "outputPath": "C:\\MEGA\\WIP\\02-GitWIP\\STUDY.ConsoleP.UnitTests\\STUDY.Console.CodingTracker\\CodeTrackerConfigFirst\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
